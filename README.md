@@ -22,7 +22,7 @@ Additionally, Alumni Connect will house a digital Alumni Newspaper that allows s
 https://github.com/user-attachments/assets/d5d18c5f-ba36-487d-a4fc-0605e8062c69
 
 ## Browse:
-https://github.com/user-attachments/assets/c4b87f97-e774-498a-ad70-270b1170da66
+https://github.com/user-attachments/assets/e9ceb08a-872e-41a9-b73c-bc4de7b757b8
 
 ## Newspaper:
 https://github.com/user-attachments/assets/4f50d749-5fa8-4696-a746-5a7e84a052df
